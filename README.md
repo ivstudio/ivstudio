@@ -1,4 +1,4 @@
-### Hi there 👋, thanks for stopping by!!
+### Hi there 
 
 <!--
 **ivstudio/ivstudio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
