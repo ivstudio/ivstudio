@@ -1,6 +1,4 @@
 ### Hi there 👋
-
-I’m a Frontend Engineer with 10+ years of experience building web applications from end-to-end. 
  
 <!--
 **ivstudio/ivstudio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
