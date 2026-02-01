@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a Software Engineer with a track record of shaping ideas into scalable, value-driven products. I’ve built and improved systems across FinTech, marketplaces, SaaS, and internal tools, always aiming to deliver efficiency and meaningful impact.
+I am a Software Engineer working across Core Product, Design Systems, and AI-driven experiences, focused on building scalable, high-impact web applications.
 <!--
 **ivstudio/ivstudio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
